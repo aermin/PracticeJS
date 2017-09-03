@@ -5,4 +5,4 @@
 
 [demo:图片懒加载性能优化](http://www.hxvin.me/PracticeJS/lazyload/lazyload2.0.html)
 
-[demo:图片预加载](http://www.hxvin.me/PracticeJS/reload/preload.html)
+[demo:图片预加载](http://www.hxvin.me/PracticeJS/preload/preload.html)
